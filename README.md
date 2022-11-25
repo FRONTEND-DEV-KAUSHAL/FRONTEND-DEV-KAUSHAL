@@ -1,4 +1,4 @@
-## Hi, My Name is @FRONTEND-DEV-KAUSHAL I'm a Web Developer, Gamer and Editor
+## Hi, My Name is @FRONTEND-DEV-KAUSHAL I'm a Web Developer and Gamer
 - 🔭 I’m currently working on a DayDreamSoft!
 - 🌱 I love Javascript🥰 and try to learn new things everyday. 
 - ⚡ Fun fact: I love to watch anime and cooking is also my favourite thing 
