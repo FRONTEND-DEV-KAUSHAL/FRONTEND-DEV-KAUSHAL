@@ -1,4 +1,9 @@
 ## Hi, My Name is @FRONTEND-DEV-KAUSHAL I'm a Web Developer and Gamer
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/FRONTEND-DEV-KAUSHAL/count.svg" />
+</p>
+
 - 🔭 I’m currently working on a DayDreamSoft!
 - 🌱 I love Javascript🥰 and try to learn new things everyday. 
 - ⚡ Fun fact: I love to watch anime and cooking is also my favourite thing 
@@ -10,6 +15,7 @@
 
 <br />
 <br/>
+
 
 ## Github for Life:
 [![Kaushal's contribution graph as a Game of Life](https://github4life.herokuapp.com/FRONTEND-DEV-KAUSHAL.gif)](https://github4life.herokuapp.com/FRONTEND-DEV-KAUSHAL)
