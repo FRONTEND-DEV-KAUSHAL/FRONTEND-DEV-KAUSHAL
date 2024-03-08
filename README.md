@@ -20,7 +20,7 @@
 <a href="https://twitter.com/i_kaushal_gohil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_kaushal_gohil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaushal gohil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal gohil" height="30" width="40" /></a>
 <a href="https://fb.com/kaushal gohil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaushal gohil" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_kaushal_gohil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_kaushal_gohil" height="30" width="40" /></a>
+<a href="https://instagram.com/i_kaushal_gohil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_kaushal_gohil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
