@@ -29,3 +29,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frontend-dev-kaushal&show_icons=true&locale=en&layout=compact" alt="frontend-dev-kaushal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontend-dev-kaushal&" alt="frontend-dev-kaushal" /></p>
+
+###
+
+<img src="https://raw.githubusercontent.com/FRONTEND-DEV-KAUSHAL/FRONTEND-DEV-KAUSHAL/output/snake.svg" alt="Snake animation" />
+
+###
