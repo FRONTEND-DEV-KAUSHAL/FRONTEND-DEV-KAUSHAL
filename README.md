@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm kaushal gohil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/FRONTEND-DEV-KAUSHAL"
+  width="600"
+  height="300"
+/>
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frontend-dev-kaushal&label=Profile%20views&color=0e75b6&style=flat" alt="frontend-dev-kaushal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frontend-dev-kaushal" alt="frontend-dev-kaushal" /></a> </p>
