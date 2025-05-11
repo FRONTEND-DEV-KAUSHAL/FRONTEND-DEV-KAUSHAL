@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/i_kaushal_gohil" target="blank"><img src="https://img.shields.io/twitter/follow/i_kaushal_gohil?logo=twitter&style=for-the-badge" alt="i_kaushal_gohil" /></a> </p>
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **react,angular, node, html,css**
+- 💬 Ask me about **react,angular, node, html, css, node**
 
 - 📫 How to reach me **gohilkaushal16@gmail.com**
 
